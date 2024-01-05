@@ -1,5 +1,5 @@
-# codepath-ios102-prework
-Submitted by Salvador Frias for iOS102.
+# Pre-Work Submission - *IOS102*
+Submitted by: **Salvador Frias** 
 
 Please note: The provided README link in the pre-work module does not work, so I'm just listing all of the app's required functionality below. Thanks!
 
@@ -9,6 +9,7 @@ Please note: The provided README link in the pre-work module does not work, so I
 - [x] Increase the number of pets label using stepper
 - [x] App presents an alert when the "Introduce Self" button is tapped
 
+## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/d8d24a7cd33e402aa565578a6edf1032">
     </a>
